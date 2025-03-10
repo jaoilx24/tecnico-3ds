@@ -56,6 +56,9 @@
         <mxCell id="s6zLmTVq4rTSNYf3zC1Z-22" value="id morador&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;cpf&lt;/div&gt;&lt;div&gt;ap&lt;/div&gt;&lt;div&gt;bloco&lt;/div&gt;&lt;div&gt;tel&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="140" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s6zLmTVq4rTSNYf3zC1Z-23" value="PROJETO CONTROLE DE ACESSSO&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;DIAGRAMA UML&lt;/div&gt;&lt;div&gt;DESENVOLVIDO POR João vitor&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="260" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
